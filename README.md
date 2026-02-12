@@ -22,5 +22,7 @@ Data Cleaning/Filtering: Focusing on non-canceled bookings (is_canceled = 0) to 
 
 Business Intelligence: Translating raw query results into managerial recommendations.
 
+[Click here to see my code](https://github.com/bora-shn/Hospitality-Data-Analysis/blob/main/hospitality_analysis.sql)
+
 ## Data Source
 Kaggle: Hotel Booking Demand Dataset (Jesse Mostipak).
